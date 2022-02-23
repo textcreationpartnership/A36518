@@ -1,0 +1,342 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Totum hominis, or, The decalogue in three words, viz. justice, mercy and humility being a sermon upon Micah 6th vers. 8th,  preached in the Cathedral of St. Peters, York, upon Monday the 15th day of March, 1668/9 before the Right Honourable Baron Turner and Baron Rainsford, the Right Worshipful Sr. Jo. Armitage, Bart. ... / by Sam. Drake, D.D. ...</title>
+            <author>Drake, Samuel, 1622-1679.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 51 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36518</idno>
+            <idno type="STC">Wing D2134</idno>
+            <idno type="STC">ESTC R20477</idno>
+            <idno type="EEBO-CITATION">12562882</idno>
+            <idno type="OCLC">ocm 12562882</idno>
+            <idno type="VID">63283</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36518)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63283)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 314:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Totum hominis, or, The decalogue in three words, viz. justice, mercy and humility being a sermon upon Micah 6th vers. 8th,  preached in the Cathedral of St. Peters, York, upon Monday the 15th day of March, 1668/9 before the Right Honourable Baron Turner and Baron Rainsford, the Right Worshipful Sr. Jo. Armitage, Bart. ... / by Sam. Drake, D.D. ...</title>
+                  <author>Drake, Samuel, 1622-1679.</author>
+               </titleStmt>
+               <extent>[4], 27 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Grantham ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1670.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Micah VI, 8 --  Sermons.</term>
+               <term>Sermons, English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:63283:1"/>
+            <pb facs="tcp:63283:1" rendition="simple:additions"/>
+            <p>
+               <hi>TOT<g ref="char:V">Ʋ</g>M HOMINIS;</hi> OR, THE DECALOGUE IN Three Words,</p>
+            <p>Viz,
+<list>
+                  <item>Juſtice,</item>
+                  <item>Mercy, and</item>
+                  <item>Humility.</item>
+               </list>
+            </p>
+            <p>BEING A SERMON Upon <hi>Micah</hi> 6<hi rend="sup">th</hi>. <hi>Verſ.</hi> 8<hi rend="sup">th</hi>.</p>
+            <p>Preached in the Cathedral of St. <hi>Peters, York,</hi> upon <hi>Monday</hi> the 15<hi rend="sup">th</hi> day of <hi>March,</hi> 1668/9, before the <hi>Right Honourable</hi> Baron <hi>Turner,</hi> and Baron <hi>Rainsford.</hi>
+            </p>
+            <p>The Right Worſhipful S<hi rend="sup">t</hi> 
+               <hi>Jo. Armitage</hi> Bar<hi rend="sup">t</hi>. being then High Sheriff of <hi>Yorkſhire.</hi>
+            </p>
+            <p>
+               <hi>By</hi> SAM. DRAKE, <hi>D. D. Vicar of</hi> Pontefract, <hi>and ſometime Fellow of</hi> St. John's Col. Camb.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>William Grantham</hi> at the Black Bear in <hi>St. Pauls</hi> Church-yard, near the little North Door, 1670.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:63283:2"/>
+            <pb facs="tcp:63283:2"/>
+            <head>TO THE TRULY VERTUOUS And <hi>RELIGIOUS</hi> LADY, THE LADY MARGARET ARMITAGE, Wife to Sir <hi>JOHN ARMITAGE</hi> of <hi>Kirklees,</hi> Baronet.</head>
+            <opener>
+               <salute>MADAM;</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He beſt Guard being <hi>Innocency;</hi> and, this <hi>Sermon</hi> wanting Pro<g ref="char:EOLhyphen"/>tection, Where ſhall it find more of Safety (becauſe where more of Purity) then in Your Breast?</p>
+            <p>Whil'ſt I am Pleading my Gracious Soveraigns Juſt Power, I fear not but your loyal Hus<g ref="char:EOLhyphen"/>band will Eſpouſe my Quarrel, and Patronize my <hi>Ser<g ref="char:EOLhyphen"/>mon:</hi> And, I hope, your pitty will not ſee this Periſh, Treating of thoſe <hi>Vertues</hi> and <hi>Graces</hi> that have ſuch an Aſsimilation to Your Self.</p>
+            <p>I here preſent You, <hi>Madam,</hi> with a ſmall Glaſs, but broken from the Chryſtalline Heaven; wherein, you may ſee the Body of Divinity, <hi>the Glory of the Lord;</hi> and, what Glory he would put upon you: Therein God pre<g ref="char:EOLhyphen"/>ſents to you as rich a Triple-Offering as the Wiſe Men of
+<pb facs="tcp:63283:3"/> the <hi>Eaſt</hi> did to his only Son, <hi>Gold, Frankincenſe and Myrthe.</hi>
+            </p>
+            <p>A Bevy of Rich Jewels, which the Indies are igno<g ref="char:EOLhyphen"/>rant of; nor is <hi>Arabia</hi> ſo happy as to Parallel. The Ruby of <hi>Juſtice,</hi> the Pearl of <hi>Mercy,</hi> and the Emerald of <hi>Humility;</hi> Thus the true Chriſtian is blazon'd.</p>
+            <p>May theſe Vertues then by the Sanctification of the Spirit, be as a Collar of <hi>SS</hi> to Adorn your Neck. May theſe unpoliſht Lines, intended as an enlargement thereon, be ſubſervient to your Devotions, and Cloſetted in your Pious and Diſcerning Breaſt; ſo ſhall you be <hi>all Glorious within,</hi> and the King of Heaven ſhall take pleaſure in your Spiritual Beauty.</p>
+            <p>In my Prayers I may not forget your Two vertuous Daughters; may Madam <hi>Margaret,</hi> and Madam <hi>Ca<g ref="char:EOLhyphen"/>tharine</hi> deſerve the ſtile of <hi>Jemima</hi> and <hi>Keſia</hi> (two of Holy <hi>Jobs</hi> Daughters) for the Light of Divine Truth in them, and the Perfume of Godlineſs.</p>
+            <p>Reſiding at <hi>London,</hi> you have the Glory of Art and Nature in your Eye; but, the Ornament of a Meek and quiet ſpirit in Gods ſight is of greater Price.</p>
+            <p>Some New City-Modes may differ much from this, and one from another; but, I aſſure you, after this Manner <hi>in the Old Time Holy Women, who truſted in God, adorned themſelves.</hi>
+            </p>
+            <p>And, if you will be but ſo juſt to your own ſelf, as to Peruſe, and ſtill Practiſe Gods Holy Precepts; ſo Merciful to Me, as to Pardon this Preſumption, you Crown the Hopes and Deſires of</p>
+            <closer>
+               <salute>MADAM,</salute>
+               <signed>Your Moſt Humbly Devoted Servant, S. D.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:63283:3"/>
+            <epigraph>
+               <bibl>Micah 6<hi rend="sup">th</hi>. Verſ. 8<hi rend="sup">th</hi>.</bibl>
+               <q>He hath ſhewed thee O Man what is good: And, What doth the Lord require of thee? But to do Juſtly, to love Mercy, and to walk Humbly with thy God.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">W</seg>Hen the Prophet <hi>Micah</hi> obſerv'd how the Formal <hi>Jew</hi> doted upon his <hi>Sha<g ref="char:EOLhyphen"/>dowy Ceremony,</hi> he preſſeth the Sub<g ref="char:EOLhyphen"/>ſtantial Duty of <hi>Juſtice</hi> upon him: <hi>In Aram Dei Juſtitia imponatur;</hi> Let <hi>Juſtice</hi> be put upon thy Heart the <hi>Al<g ref="char:EOLhyphen"/>tar,</hi> Offer <hi>Mercy</hi> rather then <hi>Sacrifice:</hi> And, if by <hi>Humility</hi> thou make thy ſelf a whole <hi>Burnt-Offering,</hi> conſuming thy former Glorious Self in that Holy Con<g ref="char:EOLhyphen"/>flagration; How much more Acceptable will this be then <hi>the Fat of Rams?</hi> In like manner, when I take notice that ſome Noveliſts of this Age of ours, have been ſo wholly given to <hi>Platonick Speculations, Ayery Notions,</hi> and <hi>Fond-affected Expreſsions;</hi> who, would be accounted <hi>Religious,</hi> (though they have loſt their
+<pb n="2" facs="tcp:63283:4"/> 
+               <hi>Decalogue</hi> in their Pretended-<hi>Creed,</hi> and <hi>Morall-Ho<g ref="char:EOLhyphen"/>neſty</hi> in the Refinedneſs of their Faith:) I hope it will not be unſuitable, if I, (according to this Prophets Method,) preſs theſe Primitive Practical Duties of <hi>Juſtice, Mercy</hi> and <hi>Humility,</hi> in the Language of my Text. Thus then, God having cleared himſelf from thoſe unworthy Aſperſions of <hi>a hard Maſter,</hi> which ſome undutiful Servants would have fixed upon him, in the ſoft Language in the third Verſe of this Chap<g ref="char:EOLhyphen"/>ter; <hi>O my People, What have I done unto thee? and, Wherein have I wearied thee? testifie againſt me:</hi> and then, by a ſhort Epitome of his long continued ſig<g ref="char:EOLhyphen"/>nal Favours Tacitly tax'd here, (as plainly elſewhere) the Ingrateful, Hypocritical, and Formal Pretences of that <hi>Jewiſh</hi> Nation, <hi>Verſ. 5. O my People, Remember now what</hi> Balack <hi>King of</hi> Moab <hi>conſulted<g ref="char:punc">▪</g>
+               </hi> &amp;c.</p>
+            <p>At the ſixth Verſe they make their Reply; <hi>Where<g ref="char:EOLhyphen"/>with ſhall I come before the Lord,</hi> ſaith <hi>Iſrael? and how my ſelf before the high God? If the Lord would be appeaſed with thouſands of Rams, or ten thouſands of Rivers of Oyl,</hi> theſe Impoſſible things I would at<g ref="char:EOLhyphen"/>tempt; yea, even unlawful ones, The <hi>Firſt-born</hi> for my Tranſgreſſion, and the <hi>Fruit</hi> of my <hi>Body</hi> for the <hi>Sin</hi> of my <hi>Soul;</hi> this would I give for an Attonement. And indeed, any thing of that People God might ſooner have had then a broken heart: The Prophet now comes to make Gods Rejoynder in my Text; Away with ſuch flouriſhing Pretences, you do but ſhuffle and trifle with God; you need not now begin to ask the way to <hi>Zion,</hi> with your faces thitherwards; you need not make ſo much Queſtion what will pleaſe him? He hath ſpoke his mind freely, and his Com<g ref="char:EOLhyphen"/>mands
+<pb n="3" facs="tcp:63283:4"/> are fair writ, he hath ſhewed thee O man what is good.</p>
+            <p>
+               <hi>Thee O man</hi>—If man ſhould be taken for the Magiſtrate, as <hi>Gen. 43. 11. Carry down the man</hi> (the Ru<g ref="char:EOLhyphen"/>ler <hi>Joſeph) a Preſent,</hi> and in other places, then the Errand is in the Prophets language, <hi>to thee O Captain.</hi> Truth is, if a man in power will walk in darkneſs, ſome puny advantages he hath to deal perverſely; but if he will but eye the light of the word, he ſhall find all theſe obviated in my Text: What is it the Lord requires? (leſt he ſhould be injurious, to <hi>do ju<g ref="char:EOLhyphen"/>ſtice;</hi>) leſt he ſhould be cruel, to <hi>love mercy;</hi> leſt he ſhould be frivolouſly imperious, to <hi>walk humbly.</hi>
+            </p>
+            <p>And becauſe the name of <hi>Adam</hi> being ſo low, man rather affects that of <hi>Geber,</hi> a Gilded Hillock; nay, to be accounted <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, The Prophet ſeems to check him thus, Pride gets nothing but a ſlight from Reaſon, and a worſe ſure from Religion; ſhall the Gloe-worm vye with the Sun? ſhall the Subject ſtrut it in the face of his Soveraign? <hi>Walk humbly,</hi> 'tis with thy God. If there be many by-wayes, the night dark, or our Guide blind, we may eaſily fall into a ditch: but here's a light ſet up in the Text, and that from the Father of lights; <hi>He hath ſhewed.</hi>
+            </p>
+            <p>And <hi>thee O man</hi>—It ſeems a particular Ray is or<g ref="char:EOLhyphen"/>der'd to reach every ſingle perſon; He hath chalked out the way, the good old way; this do and live. <hi>Thee O man</hi>—Though ſpoken by the word in gene<g ref="char:EOLhyphen"/>ral, as much concerns us as if directed to every indi<g ref="char:EOLhyphen"/>vidual. God (as I may ſo ſay) talks with every perſon immediately, ayming to awaken every ſingle ſoul to his duty.</p>
+            <pb n="4" facs="tcp:63283:5"/>
+            <p>Let us water our own Field by cutting a paſſage from the common River, inferring with <hi>David</hi> when God at large ſaith, <hi>ſeek ye my face.</hi> Let every one ſubſume, <hi>thy face Lord will I ſeek.</hi> But what is it the Lord hath ſhewed thee? <hi>what is good</hi>—This is an extenſive word; what is ſeaſonable, what is dele<g ref="char:EOLhyphen"/>ctable, what is profitable: The Apoſtle <hi>Philip.</hi> 4. 8. comments upon the word. <hi>Whatſoever things are true, whatſoever things are honeſt,</hi> lovely and of good report. The all ſeeing eye enlightning the underſtanding, ſhews thee what is good for thy will to make choice of. If thou beeſt not ſo generous as to make choice of ver<g ref="char:EOLhyphen"/>tue for its innate ſplendor, yet ſurely ſo prudent thou wilt be to make thy election of that which is good for thine own ſake. Self-love will conſtrain thee to this, as well as Gods Command. And what I pray is it the Lord requires? <hi>but to do juſtly</hi>—So good that 'tis a miracle man ſhould need a Mandate for the acting of it, or a Law-giver to require it. <hi>Gregory Nazienzen</hi> calls man <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, an heavenly Statue, of which no man was the Artificer; and ſo may I call my Text. Juſtice, Mercy, and Humility, theſe rich glories of the Soul are fit materials for a ſu<g ref="char:EOLhyphen"/>perſtructure that may reach Heaven. The language of the Text ſpeaks it of no humane extraction. The Precepts are ſo excellent, and refin'd, ſo agreeable to the ſpiritual part of our temper, ſo apt to clenſe and ſublimate the droſſy part of man, that they are even proportion'd to feaſt our Souls.</p>
+            <p>There is ſuch a <hi>Facultas Deo Analoga,</hi> an <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as <hi>Plato</hi> ſtyles it, betwixt this Law (I am ſure) and the Soul, that the Affections are neceſſitated
+<pb n="5" facs="tcp:63283:5"/> to ſtrike in i'th' <hi>Chorus:</hi> Such a commanding Beauty, man cannot chuſe but be enamoured with its Rays; the words like ſo many Philtres, charming us into an holy obedience; the very ſound of them, like <hi>Davids</hi> Harp, may drive away the evil ſpirit, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. They are Love-tokens left with the Sons of men to engage their affections to him: Two of them be in the repreſentations of Himſelf. Upon ſuch an ac<g ref="char:EOLhyphen"/>count St. <hi>Chryſoſtome</hi> in his <hi>12th.</hi> and <hi>13th.</hi> Oration <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> words it thus concerning his <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; There needs no Oratory to allure men to theſe, we need not heap up Arguments to convince you of their equity. What need of an Interpreter to acquaint you with Gods meaning in them? They have ſuch pro<g ref="char:EOLhyphen"/>portion with our reaſon<g ref="char:punc">▪</g> there is ſuch a Magnetick power in the good that is offer'd to us, as may well attract every rational being. Such an intrinſick love<g ref="char:EOLhyphen"/>lyneſs, and native fairneſs in them, that 'tis no eclipſe or diminution of the liberty of the firſt being, to ſay he could not but require them. Since he hath created the World, there muſt be Juſtice, and Mercy too to preſerve it, elſe men would ſwallow down each other, as greater Fiſh devour the leſs.</p>
+            <p>To the Queſtion then the wicked put, <hi>Pſal. 4. 6. Who will ſhew us any good?</hi> our Prophet may make anſwer in the Text by juſt &amp; merciful actions God will put more joy in our hearts then when their Corn, and Wine, and Oyl (their goods) increaſed. True, if critically we di<g ref="char:EOLhyphen"/>ſtinguiſh, none is good but one, that is God, but Vertue being the way to the Author of Vertue, we muſt uſe the Stream of Juſtice to come to the Juſt one, and the Ri<g ref="char:EOLhyphen"/>vulet
+<pb n="6" facs="tcp:63283:6"/> of Mercy till we come to the Fountain of it. Thus we love lower Excellencies becauſe they lead to higher; as we value gold Oar when we find it on the top of the earth, becauſe it leads to the Mine it ſelf. And if one poor ſpark of Vertue be ſo to be loved for its ſelf (as Juſtice) much more is that infinite Rock of Orient and moſt ſhining Vertue to be loved in God.</p>
+            <p>The Text then is an Anſwer to the Queſtion, verſe the <hi>7th. wherewith ſhall I come before the Lord?</hi>—And in oppoſition to their formal he offers a real way of pleaſing God: <hi>Do juſtly, &amp;c.</hi>
+            </p>
+            <p>In which three words you have the two Tables of the Law: all the ſecond Table duties are comprehend<g ref="char:EOLhyphen"/>ed in the former part of the Text, Juſtice and Mercy, and the ſum of the firſt Table duties in the later, and walk humbly: (that is) notwithſtanding you could plead exact equity towards the rich, repeating <hi>Samuels</hi> Challenge, and melting Charity towards the Poor, yet ſtill you have need of the Righteouſneſs of a Saviour, and the Mercy of our God; therefore walk humbly.</p>
+            <p>Let's take a Landſcaip of the words, though many through wilful ignorance or contempt pretend they know not the way of Duty, yet God hath not left them in a dark Apocrypha, but he hath vouchſaf'd a clear Apocalypſe. <hi>He hath ſhewed</hi>—</p>
+            <p>And though even earthly Princes think it below them to render a reaſon of their Decrees, yet that men may be convinc'd of the equity of his proceedings, that they are ſuch as flow naturally from an enlightned ſoul (if violence be not offered to it) he appeals, what is it the Lord requires?</p>
+            <pb n="7" facs="tcp:63283:6"/>
+            <p>'Tis plain alſo by the gradation of the language, that whoſoever pretends piety towards God, muſt be ſure to be a ſtrict obſerver of Juſtice amongſt his Brethren. The foundation of all is laid in doing juſtly.</p>
+            <p>Yet in <hi>Mantiſſam,</hi> over and beſides Juſtice, which is a due to all, there is another Duty, which though no humane Law can reach us if we act not up unto (for whoever was impleaded for not relieving the Poor? What <hi>Barr</hi> could <hi>Dives</hi> be brought unto though he withheld his goods from <hi>Lazarus,</hi> to whom yet the Wiſe man ſaith they are due) yet Gods Law requires even an office of mercy where an object of pity is ten<g ref="char:EOLhyphen"/>der'd; therefore my Text adds to love Mercy: And though we know the way, and acknowledge the equi<g ref="char:EOLhyphen"/>ty of it, endeavouring to pleaſe God by a ſttict heart towards Juſtice, and an enlarged hand to Charity, ex<g ref="char:EOLhyphen"/>cept God be our God, and ſo actions perform'd as fruits of faith, they are not acceptable: my Text ſaith he muſt be thy God. To the Duties of the ſecond Table we muſt joyn Duties of the firſt: Theſe things ought ye to have done, but by no means leave the main undone, <hi>To walk humbly.</hi> Neither yet will it ſuffice, ſoberly to take the imployments upon us which God injoynes, and humbly to manage them for a ſtart on<g ref="char:EOLhyphen"/>ly, but with a ſteddy, conſtant perſeverence to the end. This is call'd in my Text walking with God.</p>
+            <p>More diſtinctly. Firſt man pretends ignorance, but God ſaith he hath ſhew'd: 'Tis not to be denyed but many lye ſtill in darkneſs, their fooliſh hearts blinded, ſo that they cannot underſtand ſpiritual things ſaving<g ref="char:EOLhyphen"/>ly, diſcerning ſpirits they have not, they cannot or<g ref="char:EOLhyphen"/>der their ſpeeches or their perſons as they ſhould:
+<pb n="8" facs="tcp:63283:7"/> They neither know the affirmative nor Negative part of their duty; they neither ſee what injuſtice they have done againſt the commands, nor what mercy they have neglected to do according to the Command<g ref="char:EOLhyphen"/>ment: <hi>Therefore the Error of their ways they underſtand not, they will not repent, and ſo are without hope.</hi>
+            </p>
+            <p>'Tis for a Lamentation that too many ſit ſtill in darkneſs and in the ſhadow of death; but then where's the fault? hath God barricado'd up the way of know<g ref="char:EOLhyphen"/>ledge? or left himſelf without a wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>neſs? who cries behold me, behold me, to a Nation that ſeeks not after him? True, an evil eye cannot behold that which is good, a coveting eye cannot love Juſtice, a cruel eye will not love mercy, nor a proud eye humili<g ref="char:EOLhyphen"/>ty; but the reaſon of all that is their own falſe glaſs.</p>
+            <p>Theſe evil beaſts or beaſtly Luſts have devoured the man I would ſpeak to; <hi>If our Doctrine be hid, 'tis hid to them that are loſt,</hi> eternally, if not temporally; for beſides that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that ſacred Manu<g ref="char:EOLhyphen"/>ſcript which is writ by the finger of God himſelf in the heart of man, the Quakers Scripture of God with<g ref="char:EOLhyphen"/>in us, the Bible of Gods own Printing there (as they ſtyle it.) Remember <hi>St. Auſtins Tolle, Lege,</hi> he points us to a more legible Book; the Gleanings of this Book is better than the Vintage of all other; ſo that you need not now cry to us as the Diſciples of <hi>John</hi> the Baptiſt, <hi>Maſter what ſhall we do?</hi> God hath gone before you in a fiery Pillar, whats writ in the Law<g ref="char:punc">▪</g> how readeſt thou? To the Law and to the Teſtimony, all their words that ſpeak not according to this they have no light in them, but are benighted ſouls.</p>
+            <p>The Word is nigh you, in your eye, he that runs
+<pb n="9" facs="tcp:63283:7"/> may read in our mouthes, the Word hath gone through the world, nay into your hearts convincingly: Nor is it an Oriental Tradition, or a Rabinical Dream only handed to us by unfaithful Ecchoes, and imper<g ref="char:EOLhyphen"/>fect rebounds, no ridling Oracles are our rule, but a revealed Word: there he hath ſhewed the O man: <hi>Omnis Scriptura eſt menſa Sapientiae;</hi> there you may feaſt your ſelves ſaith <hi>Origen,</hi> and <hi>Ireneus</hi> in his third Book ſays <hi>Oſtentationes quae ſunt in Scripturis non poſſunt oſtendi niſi ex Scripturis,</hi> never ſo lovely or beneficial ſights: The Devil hath his Showes, the whole world and the glory thereof; but our beſt way is to wink when he offers the object: Here's a ſight man is made ſpectator of, ſo good, that 'tis worthy of Gods own eye, being an Emanation from himſelf: The vail is taken off from the face of Divine Truth, and you may love it for the beauty your ſelves behold in it. And as he gives his Word to ſhine without, ſo he gives his Spirit to ſhine within, that the light of the Spirit might apprehend the light of the Word: here are ſhewings indeed. Barren fruitleſs Cutioſities he hath not ſhewn, but neceſſaries to ſalvation are clearly re<g ref="char:EOLhyphen"/>veal'd; the Form of ſound words, and the truth which is after godlineſs, theſe rich Mines are bared.</p>
+            <p>The way of Duty is plain; who ſo is wiſe may un<g ref="char:EOLhyphen"/>derſtand theſe things; then ſhall you know if you fol<g ref="char:EOLhyphen"/>low after to know the Lord.</p>
+            <p>Light is come into the world, and we live in the <hi>Goſhen</hi> of it. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſhould be our ſalutation; wel<g ref="char:EOLhyphen"/>coming theſe Irradiations: Ignorance is now wilful work; if men will either read or hear they need not be filthy; he hath ſhewed them a cleanſing Fountain.
+<pb n="10" facs="tcp:63283:8"/> Walk in the light then, and when with <hi>Solomen</hi> you have conſidered theſe empty and ſhadowy Lights below; where we can ſcarce find any thing worth a glance; then lift up your gates, and your hearts; that the King of Glory may come in with the goodly Train of his revealed Truths. Open your ſouls to theſe Heavenly Viſions, and warm them in theſe eve<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>laſting Sun-beams.</p>
+            <p>Times of former Ignorance (ſo call'd becauſe of glimmering diſcoverings comparatively) God is ſaid to wink at, but after the Sun of Righteouſneſs himſelf hath ariſen with healing in his wings, now he looks broad upon ſinners, chaſtiſing them with his beams for ſins, though ſmall as Atomes. You may have darkneſs in the day if you ſhut your windows. O why do you not open your eyes and diſcern? why do you act in the choiceſt points of Religion out of blind and implicit Principles? Sons of light will not do ſo, but in his light, they will eye eternal light. O how hath the Truth ſuffered betwixt the over-prying Socinian and the blind obedient; I would neither have you burn your wings by over near approaches to this light, nor yet wink at Noon. Above all O take heed of withholding truth in unrighteouſneſs after theſe ſhew<g ref="char:EOLhyphen"/>ings.</p>
+            <p>Thou requireſt obedience, <hi>Da quod jubes,</hi> ſaid <hi>St. Auſtin, &amp; jube quod vis.</hi> Surely if our Piety be not prevail'd upon by the reverence of this <hi>He</hi> in my Text, the Author, yet the excellency of the Impoſition doth ſo recommend it to our reaſon, that we muſt put off the beſt part of our Nature to evacuate the force of our Religion. We have a Law, and by that Law we
+<pb n="11" facs="tcp:63283:8"/> ought to walk; true, <hi>Lex non valet niſi promulgata,</hi> but this great King hath ſent out his Proclamations: He hath ſo ſhewed thee: And leaſt man ſhould ap<g ref="char:EOLhyphen"/>peal from him as a ſevere Lawgiver, he appeals to him<g ref="char:EOLhyphen"/>ſelf. What is it the Lord requireth? but that which is good, ſo good that Juſtice and Mercy are Gods own attributes. By his Prophet <hi>Ezekiel</hi> God takes it hainouſly, and well he may, that man ſhould queſtion his wayes by whom all things are ponder'd, and who doth all <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, accord<g ref="char:EOLhyphen"/>ing to the Counſel of his Will, with mature delibe<g ref="char:EOLhyphen"/>ration, being Equity himſelf; by way of challenge therefore, are not my wayes equal? <hi>And ſhall not the Judge of Heaven and Earth do right?</hi> And though he give not account of his matters, he is not bound to it, <hi>Job.</hi> 33. 13. Yet what is it, <hi>Come now, let us reaſon together ſaith the Lord: Are they not the cords of man and the bands of love,</hi> Hoſea 11. 4. That I would draw you in by? By downy perſwaſions, not iron compulſions. What are you afraid of theſe golden chains? they are not Fetters for your feet, but Brace<g ref="char:EOLhyphen"/>lets for your necks. Vices are chargeable, but Vertue is free, and you are wooed to it in a winning way.</p>
+            <p>
+               <hi>Origen</hi> in his fourth book <hi>Contra Celſum</hi> breaks out thus, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>—Though it be mu<g ref="char:EOLhyphen"/>tual to Men and Beaſts to catch and be catch'd, yet there is a great deal of difference <hi>Ratione an violentia.</hi> Now we are fetcht over with no ruſhing wind, or im<g ref="char:EOLhyphen"/>perious ſowerneſs, but with gales of grace. They are ignoble diſingenious ſpirits that are not won over by ſuch wayes. The Sacrifices under the Law were ſea<g ref="char:EOLhyphen"/>ſoned with ſalt, which myſtically denotes diſcretion;
+<pb n="12" facs="tcp:63283:9"/> and the Goſpel is the beſt <hi>Rationale</hi> in the world: Let me therefore court you to the duties of the Text by St. <hi>Pauls Suada, Rom</hi> 12. 1. 'Tis <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a Reaſonable Service; the Law of God ſet before an in<g ref="char:EOLhyphen"/>tellectual eye, carries ſuch a light and beauty in it as may juſtly ingratiate it with the underſtanding: And that heavenly beam which God hath darted into the ſoul of Man for the diſcovery of his own Laws, being ſo exactly conformable to that light, ſhould readily comply with it.</p>
+            <p>God doth not ſo much as ſhew thee, offer any com<g ref="char:EOLhyphen"/>mand unto thee but what is good: His Yoke eaſie, his Burden light, his Commandments not grievous: They are good for thy ſelf O Man: Thy goodneſs ex<g ref="char:EOLhyphen"/>tends not to him: And if thou wilt not hate thine own fleſh, thou muſt embrace them. They conſult their own good that do good, all things work for the beſt to them; when theſe few and evil dayes are gone they receive good in death: Whereas it ſhall be ob<g ref="char:EOLhyphen"/>jected to the wicked; <hi>Son thou haſt received thy good things:</hi> Then the righteous mans beſt good is to be produced; and when Temporal goods fail he enjoys Eternal. The contemplation of this put <hi>David</hi> up<g ref="char:EOLhyphen"/>on the queſtion, <hi>Pſalm the 34. 12. What man is be that deſireth to live and loveth many dayes that he may ſee do good?</hi> The anſwer at the fourteenth verſe is, <hi>Let him do good;</hi> will ye ſtill continue in a barren Wilderneſs, and not reach forth your hand to the offer'd Grapes of <hi>Eſchol?</hi> will you give a ready ſubmiſſion to what the Devil requires, and will you be obſtinate againſt Gods commands: will you be valiant under the comm<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nds of a Tyrant, and Cowards under your lawful Sove<g ref="char:EOLhyphen"/>raign?
+<pb n="13" facs="tcp:63283:9"/> What Command is harſh when Honour is pro<g ref="char:EOLhyphen"/>fer'd? What Obedience is performed though Heaven be as a Label annex'd thereunto?</p>
+            <p>Do but ſtrive and thou mayſt ſtorm; attempt and thou ſhalt conquer: There is no difficulty to a reſolv'd Soul: He that gives thee his Commands will aſſiſt thee in the keeping of them. But what formidable Commands doth God impoſe? Lord what wouldſt thou have us to do; lets take a particular view. Is there ever a bitter herb in his preſcription that might lead death into the Pot? Teſtifie againſt him if you find any. I ſpeak to wiſe men, judge what I ſay. You whoſe ſenſes be exerciſed, that you can diſcern be<g ref="char:EOLhyphen"/>twixt good and bad; you that have a ſpiritual Pallat, a heavenly Relliſh, you ought to hear reaſon when Man ſpeaks it, much more when God offers it, and in ſuch a taking way. His Law makes man contract all his firſt reaſon to apprehend it: And the Goſpel is the dilatation of Gods own reaſon, a line to reach even to us <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, rational de<g ref="char:EOLhyphen"/>monſtrations. Every mouth muſt be ſtopt when God opens his ſo convincingly. Was it ſome great matter, was it never ſo difficult a work of faith, the Path ſtrai<g ref="char:EOLhyphen"/>ter than indeed it is, 'twas well worth our ſtrugling to obtain Heaven at our Journey's end: how much more ſhould we preſs forward when he only enjoyns us thoſe things which ſuit our reaſon ſo adequately?</p>
+            <p>
+               <hi>To do juſtice</hi>—<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> what but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which the Emperour and Philoſopher <hi>Marcus Anto<g ref="char:EOLhyphen"/>ninus</hi> held to be Equivalences: There are <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in the world; even the ruder
+<pb n="14" facs="tcp:63283:10"/> heap of Mankind, that do but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, will cry up <hi>Juſtice;</hi> others, are ſo Rational, as to plead for <hi>Mer<g ref="char:EOLhyphen"/>cy;</hi> and, the better bred Bereans deſire and endeavour to walk with God.</p>
+            <p>
+               <hi>Doe Juſtly</hi>—And, Is not <hi>Suum cuique tribuere</hi> Natures Maxim? You may hear every man in his own Dialect extol this Precept, <hi>Parthians,</hi> and <hi>Medes,</hi> and <hi>Elamites;</hi> the barbarous <hi>Scythian,</hi> and wild <hi>American</hi> have ſome Reliſh of <hi>Juſtice,</hi> 'tis ſo pleaſant. This Notion is a Pearl, that ſhines in the dark; none but wallowers in the mire will trample upon it: This Gold will endure any Touchſtone; every Palate is ſa<g ref="char:EOLhyphen"/>tisfied with its ſweetneſs: In this <hi>Via Regia</hi> all Tra<g ref="char:EOLhyphen"/>vellors deſire to walk; even <hi>Gath</hi> and <hi>Aſkalon</hi> would have owned this, and, Should not <hi>Jeruſalem?</hi> Ju<g ref="char:EOLhyphen"/>ſtice hath an Olive-branch in its mouth, and drops ſweetneſs and fatneſs upon the Land it comes into: <hi>Adeo res ſacra eſt,</hi> ſaith <hi>Seneca, ut ſiquid illi ſimile, eti<g ref="char:EOLhyphen"/>amſi Mendacium, placeat;</hi> ſo venerable a thing is Ju<g ref="char:EOLhyphen"/>ſtice, that the very Counterfeit, the <hi>Briſtol</hi> goes for Currant. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſaith the <hi>Philoſopher;</hi> Thoſe that labour to pervert it, do yet Honour it: and, even thoſe Men, who themſelves will not practiſe it, can<g ref="char:EOLhyphen"/>not yet but love it, at leaſt commend it in others.</p>
+            <p>It gives Honour where it cannot winn Aſſent: As <hi>Pilate</hi> acknowledged, he <hi>found no fault in</hi> our <hi>Saviour,</hi> whom yet he Condemned: This God expects from all. That Elegant Moraliſt <hi>Plutarch,</hi> ſayes, God is angry with them that Counterfeit his Thunder and Lightning: <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; His Scepter and Trident he will not have medled with; not imitate
+<pb n="15" facs="tcp:63283:10"/> His Soveraignty; but, loves to ſee us darting out thoſe warm and cheriſhing beamings of <hi>Juſtice</hi> in the <hi>Text,</hi> of <hi>Juſtice, Goodneſs</hi> and <hi>Clemency:</hi> They that practice theſe, with the <hi>Bee,</hi> may make a Trade of their Pleaſure; in their buſineſs may have Recreation, and in a holy Epicuriſme fare deliciouſly every day up<g ref="char:EOLhyphen"/>on their own Dainties.</p>
+            <p>
+               <hi>Do Juſtly—Omnes virtutum ſpecies uno Juſtitiae nomine Continentur</hi> (ſaith St. <hi>Jerome) ad Demetrium. Do Justly;</hi> Not Talk right onely, as ſome Glib<g ref="char:EOLhyphen"/>tongu'd <hi>Abſalons</hi> of late time; who, that they might Revile the Footſteps of Gods Anointed, (our late Martyr'd Soveraign of Bleſſed Memory,) ſaid, <hi>There was no man deputed of the King to do them right, though their matters were juſt. O</hi> (ſaith <hi>Abſalon) that I was a Judge in</hi> Iſrael! Great matters indeed, when he and they were Advanced; In his wrath againſt our ſins he made them ſuch: Was not the moſt righteous of them a Thorne-Hedge? Bleſſed be God who hath <hi>reſtored us our Judges as at the firſt, and our Officers as at the beginning;</hi> who will do <hi>Juſtice,</hi> not Word it only.</p>
+            <p>
+               <hi>Do Juſtice</hi>—Not that I intend to Preſcribe Laws to you, from whom we are to receive them; but, in regard Gods Law muſt have the Precedence, upon which ours are Grounded, I think it meet (as S. <hi>Paul</hi> upon another account ſaith) <hi>to put you in mind of theſe things</hi> from the mouth of God, though you do know them, and be eſtabliſht in thoſe preſent truths.</p>
+            <p>Thus then, <hi>Juſtice</hi> being the Firſt-born in the Text, may ſeem to challenge a double portion of Diſcourſe: yet, my diſpatch ſhall be quicker through this branch,
+<pb n="16" facs="tcp:63283:11"/> in regard I have ſuch lively Comments before me; nor need I preſs that much which theſe Parts have experienc'd to be your Practice for many years.</p>
+            <p>
+               <hi>Do Juſtice</hi>—And then <hi>Juſtum</hi> is done <hi>Juſtè,</hi> when 'tis diſtributed equally. There was much Cor<g ref="char:EOLhyphen"/>ruption it ſeems in St. <hi>Cyprians</hi> time, which open'd his mouth thus; <hi>Inter ipſas Leges delinquitur, inter Jura peccatur, Innocentia nec illic ubi defenditur reſervatur:</hi> Bleſſed be God we have no ſuch <hi>complaining in our Streets.</hi> yet, exact and critically Curious ſhould man be when he ſits in the Seat of God; for, as <hi>Gre<g ref="char:EOLhyphen"/>gory</hi> in his <hi>Morals, Saepe ipſa noſtra Juſtitia ad examen divinae Juſtitiae deducta Injuſtitia eſt, &amp; ſordet in di<g ref="char:EOLhyphen"/>ſtrictione Judicis quod fulget in eſtimatione operantis;</hi> Our beſt Gold will ſcarce hold out weight in the Bal<g ref="char:EOLhyphen"/>lance of the Sanctuary: Much care therefore ſhould we have in our evenneſs of Juſtice; <hi>Davids</hi> Juſtice was as large as his Dominions, 2 <hi>Sam.</hi> to all his People.</p>
+            <p>
+               <hi>Let Judgement run down like water, and Righteouſ<g ref="char:EOLhyphen"/>neſs like a mighty ſtream,</hi> that toucheth every door equally; No <hi>Fractus,</hi> no <hi>Windings:</hi> and, a ſameneſs as in water towards all; as <hi>Juſtice</hi> muſt wet the head, ſo down it muſt run to the skirts of the Garment; like the Sun it rejoyceth as a Giant to run his courſe: <hi>Sol non alius diviti, alius Pauperi; &amp; citius Solem à Caelo quam Juſtitiam a Fabritio</hi>—His beams are equally ſhed abroad; Laws are made without reſpect of perſons: and, when they are ſo executed, then 'tis an honour to the Diſtributer, and a Happineſs to the People.</p>
+            <p>That this may be done, Praecipitancy muſt be a<g ref="char:EOLhyphen"/>voided. <hi>I will go down now and ſee,</hi> ſaith the Judge
+<pb n="17" facs="tcp:63283:11"/> Omniſcient concerning <hi>Sodom:</hi> The Eternal God takes time to teach Man to weigh matters. A Cauſe may, (like the <hi>Iſraelites</hi> Cloud,) look bright enough on the one ſide, and yet <hi>Aegyptian</hi>-darkneſs on the other. <hi>Si Judicas, cognoſce;</hi> and, when the Cauſe is ponder'd, the fear of man muſt be baniſh'd. A Ma<g ref="char:EOLhyphen"/>giſtrate is <hi>Pudore, Blanditiis, &amp; Metu major,</hi> ſaith <hi>Iſio<g ref="char:EOLhyphen"/>dore: Pilate</hi> ſtumbled at this Stone, <hi>If thou let this Man go, thou art not</hi> Caeſars <hi>Friend</hi> (ſaid the <hi>Jews,</hi>) down falls his Courage at this word, and he loſt three Friends thereby, <hi>God, Caeſar,</hi> and his <hi>Conſcience.</hi> The Enſign of the <hi>Law-giving-Tribe</hi> was a <hi>Lion,</hi> and with theſe <hi>Salomons</hi> Throne was ſupported: <hi>Phineas</hi> was a Man of a Noble Spirit; and, the Contempt of Fa<g ref="char:EOLhyphen"/>milies could not terrifie <hi>Job.</hi> When the Magiſtrate is valiant for the Truth, O how becoming is that Spirit of Power.</p>
+            <p>But, <hi>VVhat went you out for to ſee, a Reed ſhaken with every wind?</hi> alaſs, ſuch a one is not worth look<g ref="char:EOLhyphen"/>ing on; he that doth Juſtice muſt not be flexi<g ref="char:EOLhyphen"/>ble upon the Account of any Relation or Re<g ref="char:EOLhyphen"/>ward.</p>
+            <p>Affections may pervert Judgment: When the Object is too near the eye, that Approximation and Vicinity is a prejudice to the ſight. Juſtice is the Souls Serenity, a kind of Stoical Apathy: I may ſay as <hi>Ariſtotle,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 'Tis a pure Intellect, not onely without a Senſitive part, but without a Will; pure Judgement without Affecti<g ref="char:EOLhyphen"/>ons; All have an equal Intereſt in it, and Priviledge by it. <hi>Non Sanguinis neceſſitudo ſed virtutis Cog<g ref="char:EOLhyphen"/>natio proximos facit</hi> (ſaith St. <hi>Ambroſe;</hi>) So that
+<pb n="18" facs="tcp:63283:12"/> the Magiſtrate muſt be <hi>Speculum non Coloratum;</hi> a Glaſs not prejudiced, not prepoſſeſt with any Tincture; as unconcern'd as the Glaſs. It was the Commenda<g ref="char:EOLhyphen"/>tion of the Tribe of <hi>Levi, Deut.</hi> 33. 8. That he ſaid of his Father, <hi>I know thee not:</hi> What, Had theſe <hi>Levites</hi> loſt Natural Affections? No, but they knew not their neareſt Relations, ſo as to be partial in the Execution of Gods Commands: <hi>Iuſtitia non novit patrem, non novit matrem, veritatem novit, perſonam non accipit, Deum imitatur;</hi> 'Tis a great piece of the Magiſtrates Knowledge, to be Ignorant of his Ac<g ref="char:EOLhyphen"/>quaintance, leſt they ſhould Byaſs him or his Affecti<g ref="char:EOLhyphen"/>ons. <hi>Exit perſonam judicis quiſquis amicum induit,</hi> ſaith <hi>Cicero.</hi>
+            </p>
+            <p>A noble Reſolution that was of <hi>Saul,</hi> had it been well grounded, 1 <hi>Sam.</hi> 14. 24. 39. Had he done well in Adjuring the People, he had done eminently well in reſolving not to ſpare his own Son <hi>Jonathan:</hi> Per<g ref="char:EOLhyphen"/>ſonal Relations muſt not ſway in Publick Concerns. Though <hi>Coniah</hi> was as a Signet upon my right hand, yet ſhould he be pluckt thence: And, as the Provo<g ref="char:EOLhyphen"/>cation of the deareſt Relation muſt be hazarded, rather then that of God, and the Conſcience; ſo much more light in the Ballance ſhould a Gift be. <hi>Hugo</hi> in his <hi>Homilies</hi> calls this <hi>Fatuam Reverentiam alicui exhibitam, non cauſa debita ſed propter <g ref="char:V">Ʋ</g>tilitatem.</hi> 'Tis below a generous Soul, and may <hi>Judas</hi> his <hi>Quid dabitis</hi> never receive other Anſwer then St. <hi>Pauls</hi> Si<g ref="char:EOLhyphen"/>lence: <hi>Felix</hi> looked that he ſhould have given him Money, but his expectation was fruſtate. <hi>Lyranus</hi> hath a Note I cannot here paſs; for, there is as great a temptation to a Chriſtian to favour a poor man in
+<pb n="19" facs="tcp:63283:12"/> his cauſe out of tender comiſeration as there is in hopes from the rich; yet this muſt not be done neither, ſaith he, <hi>ne forte motu pietatis indiſcretae condeſcenderis ei in prejudicium juſticiae.</hi>
+            </p>
+            <p>Theſe are the chiefeſt Remora's of the Ship of Ju<g ref="char:EOLhyphen"/>ſtice, but the remembrance of your names and places will break through theſe pitiful retards: I have ſaid ye are Gods ſaith God himſelf of you. If really you would be ſo, let your hearts be cloathed with Zeal, as your bodies with Scarlet, which is an Emblem of it.</p>
+            <p>The Magiſtrate is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Lex loquens, quid vanae ſine moribus leges proficiunt?</hi> Be greater then, by your example than your office: This puts life into the Law when you are the tranſcript of it, without which it is but a dead Letter. Holineſs gives boldneſs: God looks for ſuch men to ſtand in the Gap, and make up the breaches of Juſtice. Such as eyeing the day of the Righteous Judge are timerous with a <hi>Laban</hi> or a <hi>Doeg,</hi> to abuſe their power, as knowing they are call'd Shields of the Earth, to whom power is given principally for protection, not vexati<g ref="char:EOLhyphen"/>on or ruine of others. <hi>Nemo prudens punit quia pec<g ref="char:EOLhyphen"/>catum eſt,</hi> (ſaith <hi>Seneca) ſed ne peccetur: Revocari e<g ref="char:EOLhyphen"/>nim praeterita non poſſunt, futura prohibentur;</hi> 'tis not in the power of puniſhment to recall what is paſt, but to prevent what is poſſible the reaching: 'Tis <hi>in ex<g ref="char:EOLhyphen"/>emplum,</hi> that Iſrael might hear and fear and do no more ſo preſumptuouſly.</p>
+            <p>Leſt man ſhould miſtake the ground of his power, as if it was given him to march <hi>Agrippa</hi> like <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the Text tells him of another deſign that God hath; and therefore he backs his power with a precept of pity: <hi>Love mercy.</hi>
+            </p>
+            <pb n="20" facs="tcp:63283:13"/>
+            <p>
+               <hi>Non mihi ſed populo,</hi> ſaid <hi>Adrian</hi> the Emperour; and the Philoſophers words are <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Hoc Reges habent mu<g ref="char:EOLhyphen"/>nificum &amp; ingens, prodeſſe miſeris,</hi> ſaith <hi>Seneca.</hi>
+            </p>
+            <p>The Apoſtle calls the Magiſtrate a Miniſter for good; and was it not for this addition of Mercy, even Juſtice it ſelf might be ſuſpected for Cruelty. We muſt then do juſtice ſo, as that we muſt love mercy alſo.</p>
+            <p>Juſtice is a debt upon Mans account, Mercy is Gods over-meaſure. One of the Kings of <hi>France</hi> ſaid to a Woman, who on her knees beg'd juſtice of him, Riſe up or beg mercy, for I owe thee juſtice. Man puniſh<g ref="char:EOLhyphen"/>eth if we be not juſt, but God puniſheth if we be not merciful: his wayes are not as our wayes, nor his thoughts as our thoughts; he hath many ſupereroga<g ref="char:EOLhyphen"/>ting moreovers.</p>
+            <p>
+               <hi>And love Mercy</hi>—And now that I have ſhewed how Juſtice conveys your eſtate over to you, I might ſhew you how Mercy calls for an holy alienation of it, bids you draw forth your ſoul to the hungry: So the word Mercy is ſometime taken: but this would not be ſo ſuitable.</p>
+            <p>
+               <hi>Love Mercy</hi>—If we take the words exegetically, by way of Comment upon the former; then he that doth juſtice muſt by his place afford unto the people a mer<g ref="char:EOLhyphen"/>ciful protection in oppoſition to cruel oppreſſors. Up<g ref="char:EOLhyphen"/>on this account the Prophet <hi>Ezekiel</hi> in his 28. 16. ſtyles the Magiſtrate a covering Cherub, to ſpread out a ſecuring wing; and ſo is <hi>Moſes</hi> ſtyl'd a Nurſing Fa<g ref="char:EOLhyphen"/>ther to his Iſrael.</p>
+            <p>Or if we look upon this as a diſtinct charge (as in<g ref="char:EOLhyphen"/>deed
+<pb n="21" facs="tcp:63283:13"/> there ſeem to be a great Emphaſis of love upon Mercy, and a merciful act may be done when 'tis not loved) then the Magiſtrate muſt be of ſedate affecti<g ref="char:EOLhyphen"/>ons, of a compoſed temper, not hurryed away with the leaſt violence of paſſion. The reaſon is render'd by St. <hi>James; For the wrath of man worketh not the righ<g ref="char:EOLhyphen"/>teouſneſs of God,</hi> no 'tis obſerv'd they ſtand in oppoſi<g ref="char:EOLhyphen"/>tion there: <hi>Inferiora fulminant,</hi> there's thunder in the lower Region; but all above is quiet: He that is plac'd above his Brethren, muſt not give place unto wrath. None refuſe the waters of <hi>Siloe</hi> becauſe they run ſoftly, but ſuch as are ſtyl'd the raging waves of the Sea, foaming out their own ſhame. The God of Peace requires <hi>pacatum animum,</hi> a quiet compoſure of our ſpirits; and in the execution of any office, then eſpecially muſt we love mercy, having an eye to ſofter qualifications rather then more rigorous exactions. This ſeems to be added in my Text, to doing juſtice to ſeaſon and temper it to a golden <hi>Medium,</hi> leſt Man ſhould walk up to the extremities of <hi>Draco</hi>'s bloody Laws, that puniſhed all offences with death. St. <hi>Am<g ref="char:EOLhyphen"/>broſe</hi> gave excellent counſel to <hi>Theodoſius</hi> after his raſh Maſſacre, he wiſht that in all Sentences that con<g ref="char:EOLhyphen"/>cern'd life, there might be thirty dayes before the Execution; Some ſpace to ſhew mercy if need requi<g ref="char:EOLhyphen"/>red. Thus when you ſit upon the Bench in Judg<g ref="char:EOLhyphen"/>ment let mercy give the Sentence. In the height of Jewiſh malice St. <hi>Paul</hi> aſſures us in order to himſelf, that they went leſs ſtill then the <hi>ſummum jus</hi> of the Law, <hi>Deut.</hi> 25. 3. Forty ſtripes ſaith that Text he may give him and not exceed: compare this with 2 <hi>Cor.</hi> 11. 24. And St. <hi>Paul</hi> ſaith, of the Jews received
+<pb n="22" facs="tcp:63283:14"/> I forty ſtripes ſave one. All things then that are lawful for us are not expedient for us: He that chu<g ref="char:EOLhyphen"/>ſeth alwayes to walk upon the Battlements is in dan<g ref="char:EOLhyphen"/>ger of the Precipice. You that are the diſtributers of Juſtice then, be merciful as your Judge which is in Heaven is merciful. Would you know how that is? So unwillingly doth he grieve the Children of men, that he calls the act of puniſhing his ſtrange act. <hi>Opus ſuum alienum extorquemus ut pereamus,</hi> ſaith <hi>Tertul<g ref="char:EOLhyphen"/>lian.</hi> It comes with a ſigh, <hi>Heu conſolabor, ah</hi>—I will eaſe me of my adverſaies, and avenge of my ennemies: yea and a tear too. <hi>Plangitur Princeps Tyri, quam bonus Deus</hi> (ſaith <hi>Origen) qui etiam eos deflet qui ſe neglexe<g ref="char:EOLhyphen"/>rint. Deas triſtatur non de injuria ſua, ſed de noſtra perditione.</hi> O Iſrael thou haſt deſtroyed thy ſelf. Thus our Saviour when he beheld the City wept over it. What a ſtrugling is there in his calm breaſt, who ſays <hi>What ſhall I do unto thee Ephraim? how ſhall I make thee as Admah?</hi> And at laſt Mercy triumphs o<g ref="char:EOLhyphen"/>ver Judgment: <hi>My repentings are rolled or kindled to<g ref="char:EOLhyphen"/>gether; I will not proceed to execute the fierceneſs of my wrath,</hi> with a remarkable twitting reaſon, <hi>for I am God, and not man</hi>—O let all that have the ſignature of God upon them imitate him. St. <hi>John</hi> ſaith in<g ref="char:EOLhyphen"/>deed he ſaw his Saviour with a Sword, <hi>Revel.</hi> 19. 15. But it came out of his mouth; <hi>Oris arma ſunt oſcula;</hi> No weapons but kiſſes from the lips. If there had been any danger of this Sword, the Spouſe in the very firſt words of the <hi>Canticles</hi> would not ſo paſſionately have broke forth: <hi>Let him kiſs me with the kiſſes of his mouth. My Beloved is white and ruddy,</hi> ſaith the Church there. In that dusky Type he is reſembled
+<pb n="23" facs="tcp:63283:14"/> to a Man, whereon <hi>Thomas</hi> deſcants excellently; <hi>Can<g ref="char:EOLhyphen"/>didus in toto corpore rubicundus in genis,</hi> white in all conceal'd places, ruddy only in the face, which is ob<g ref="char:EOLhyphen"/>vious to every ones eye, as if it was but a ſhow of Ju<g ref="char:EOLhyphen"/>ſtice rather to terrifie then torment: White when merciful, but in his juſtice ruddy, as if he bluſh'd to be conſtrain'd to puniſh by our obſtinacy. God ordina<g ref="char:EOLhyphen"/>rily reveals himſelf in the Old Teſtament by two Names, <hi>Jehovah</hi> and <hi>Elohim:</hi> Now the Hebrews note <hi>quando egreditur ſententia ad clementiam,</hi> he chuſeth to be call'd by his great Name <hi>Jehovah,</hi> his proper in<g ref="char:EOLhyphen"/>communicable Name? but <hi>quando egreditur ſententia ad juſtitiam</hi> in any proceſs of Juſtice or Judgment he alwayes ſtyles himſelf <hi>Elohim.</hi> By which Name An<g ref="char:EOLhyphen"/>gels, Judges, and falſe Gods too are once call'd. God it ſeems is jealous of his Name of Mercy. Imi<g ref="char:EOLhyphen"/>tate him, and do acts of juſtice with melting ſpirits and tender bowels. There is no ſuch great Chaſme betwixt Juſtice and Mercy, as ſome think, no irrecon<g ref="char:EOLhyphen"/>cilable antipathy, they may well enough greet each other with an holy kiſs; you may bring about Juſtice by a high and powerful, yet withal a ſoft and delicate hand<g ref="char:punc">▪</g> Mercy need not diſarm your Juſtice; <hi>Moſes</hi> Rod may be both a Serpent to ſting the guilty, and a ſtaffe to ſupport the weak. Theſe may ſtand together, and yet a third, an humble heart muſt be conjoyn'd; all is in vain elſe. <hi>Walk humbly with thy God,</hi> ſaith my Text.</p>
+            <p>I ſhould not have dar'd to have detain'd you thus long from thoſe weighty affairs I know are incumbent upon you, but that my Text at leaſt pleads my par<g ref="char:EOLhyphen"/>don, when it enjoyns you mercy; nor will I retard
+<pb n="24" facs="tcp:63283:15"/> you much longer now leſt I ſhould be thought guilty of that which I do decry, and preſſing humility ſhew my ſelf ambitious to detain you.</p>
+            <p>Briefly then come we to the higheſt ſtep of this Heavenly Climax, even the muſt humble poſture be<g ref="char:EOLhyphen"/>fore the moſt High: And now give me leave, like that holy Leveller of Mountains, <hi>John</hi> the Baptiſt, to prepare the way of the Lord, by the language of my Text, commanding humility. Man is a proud Crea<g ref="char:EOLhyphen"/>ture, prone to ſtand upon his own ſupremacy, even to Deifie himſelf. When thus puft up above meaſure, Humility is the thorn to prick that Bladder. How many ſtill think the <hi>Urim</hi> and <hi>Thummim,</hi> the Breſt<g ref="char:EOLhyphen"/>plate of Judgment, is only with them. Humility teacheth ſuch <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, not to be over-wiſe. I cannot ſtay to ſhew you the Lenthenlook of Humility in antient times, nor the hoof'd knee by continued prayer; yet with much ſadneſs I cannot but obſerve humility in our times is grown more ſtately. Knees of the ſoul, thoſe inviſible ones ſhe will pretend to give readily, but Elephant like, wants joynts to bow the body: Preſent their Souls a living Sacrifice they will, but their bodies are dead. If St. <hi>Paul</hi> himſelf implore them by the mercies of God to preſent their bodies, he muſt pardon them: So humble theſe are they are afraid to be reverent. How Seraphick is this Hypocrite in whom the Sword of the Spirit is melted when the Scaberd of the body is untouch't! A Body O Lord thou haſt prepared me, and if my Body expect to be glorified, it muſt be humbled. But the very mention of this new modell'd humility is a ſufficient confutation of it.</p>
+            <pb n="25" facs="tcp:63283:15"/>
+            <p>To give you ſuccinctly the real grounds of Humility in the <hi>Text.</hi> He is <hi>God, Thy God, Thy God</hi> that ho<g ref="char:EOLhyphen"/>nours thee to walk with him; <hi>Walk humbly with thy God.</hi>
+            </p>
+            <p>The God to whom futurities are preſent; <hi>Nullum tempus occurrit Regi:</hi> To the King of Heaven I am ſure. And, we have nothing but a kind of Scepti<g ref="char:EOLhyphen"/>cal <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> of whats before us: He the allſeeing God, we poor Priſoners of the fleſh, looking but out of the Grates. Conſider his Purity and Perfection, and thy own Pollution and Prophaneneſs; How low will thy Language be (as the great Apoſtle's was, upon a glance of Chriſts Divinity breaking out,) <hi>Depart from me, O Lord, for I am a ſinful man. Stars</hi> diſappear when the <hi>Sun</hi> ariſeth; Gods fullneſs may ſhow us our empti<g ref="char:EOLhyphen"/>neſs.</p>
+            <p>
+               <hi>Thy God</hi>—There is much Divinity in Pronouns: <hi>Thy God,</hi> to whom thou art oblig'd for <hi>the dews of Hea<g ref="char:EOLhyphen"/>ven, and the fatneſs of the Earth,</hi> Spiritual and Tem<g ref="char:EOLhyphen"/>poral bleſſings; that honours thee to walk with him in his Shecinah, <hi>Numbers 17. 4. There will I meet with thee:</hi> The <hi>Pſalmiſt</hi> points us to Eye him there ſtill; <hi>Seeſt thou the goings of my God and King in the Sanctuary?</hi> That honours thee to Sup with him, nay of him; <hi>Such Honour have all his Saints:</hi> therefore are they humble walkers.</p>
+            <p>
+               <hi>Hac itur;</hi> this is the way. <hi>Vis capere Celſitudi<g ref="char:EOLhyphen"/>nem Dei? Cape prius humilitatem Chriſti,</hi> ſaith St. <hi>Ber<g ref="char:EOLhyphen"/>nard. Excelſa eſt Patria, Humilis eſt via: Qui quaerit Patriam, quid recuſat viam?</hi> ſaith St. <hi>Auſtin.</hi> This is a duty incumbent upon all, and eſpecially upon thoſe men whom he hath ſo honoured, from them he expects more <hi>Humility.</hi>
+            </p>
+            <pb n="26" facs="tcp:63283:16"/>
+            <p>What then can you render unto the Lord, who hath inveſted you with his Name and Power? What leſs can you give him then the full of his expectation, that you ſhould <hi>walk humbly with that God</hi> who hath placed you Rulers over Men? How glorious is St. <hi>Bernards Humilitas honorata,</hi> an Humble Mind in an Honourable Place? How lovely is this Treaſure in our earthen Veſſels?</p>
+            <p>But, becauſe there are other Verſions of theſe laſt words of the Text, I ſhall name them (and onely ſo,) To follow God, ſaith the <hi>Syriack: Sollicitum ambula<g ref="char:EOLhyphen"/>re,</hi> ſaith the <hi>Vulgar: Eris ergo Humilis in ambulando in timore Dei tui,</hi> ſaith the <hi>Chaldee,</hi> and that's moſt Comprehenſive. In the fear of <hi>Thy God,</hi> Tremble thou Earth at the preſence of the Lord: Did Mount <hi>Sinai</hi> tremble, and ſhall not our hearts? This fear will not ſuffer a man to cut off ſo much as a Skirt, or Lap of <hi>Juſtice.</hi>
+            </p>
+            <p>This holy fear is the principal part of a good Ma<g ref="char:EOLhyphen"/>giſtrate; yea, the very form and ſoul of ſuch a one; for, it troubles me to make it but a part, which <hi>Salo<g ref="char:EOLhyphen"/>mon</hi> calls the whole of Man, <hi>Eccleſ. 11. 13. Fear God,</hi> &amp;c. <hi>This is the whole Duty of Man:</hi> Eſpecially ſuch a Man as is ſent of God <hi>for the puniſhment of evil doers, and the praiſe of them that dowell. Be inſtruct<g ref="char:EOLhyphen"/>ed therefore, O ye Judges of the Earth, ſerve the Lord in fear.</hi>
+            </p>
+            <p>If <hi>Judge, Jury</hi> and <hi>Witneſſes</hi> ſtood in this holy Awe, How li<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e would our <hi>Aſsizes</hi> be, for Equity, to that Grand <hi>Aſsize</hi> where <hi>Chriſt</hi> himſelf is <hi>Judge! Ba<g ref="char:EOLhyphen"/>ſis omnium Timor plenus Diſciplinae,</hi> ſaith St. <hi>Ambroſe:</hi> A well Diſciplin'd Fear is the Root of all Vertue.</p>
+            <pb n="27" facs="tcp:63283:16"/>
+            <p>Will you then in the fear of God Execute Judg<g ref="char:EOLhyphen"/>ment; and, being lovers of Mercy, reſolve ſtill to <hi>walk humbly?</hi> Our hopes are no leſs: If ſo, then be<g ref="char:EOLhyphen"/>ſides that, the beauty of theſe Actions carries their reward along with them, and that you have the Hearts as well as Eyes of men upon you. I'll tell you what hopes you may have from your God; That, where<g ref="char:EOLhyphen"/>as now you are but Commiſſionated from an Earthly King for a ſhort time, and a ſmall Circuit, you ſhall be Tranſlated, your Circuits enlarged: <hi>Shall not the Saints Judge the Earth?</hi> When Time ſhall be no more, you ſhall be enthron'd eternally: And, in<g ref="char:EOLhyphen"/>ſtead of this flitting, ſojourning poſture, in the Ser<g ref="char:EOLhyphen"/>vice of your God and King here, to you there ſhall be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, you ſhall enjoy eternal reſt amongſt his Choſen. Which God grant to us all for the Me<g ref="char:EOLhyphen"/>rits of <hi>Jeſus Chriſt</hi> our Saviour.</p>
+            <closer>Soli Deo Gloria.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
